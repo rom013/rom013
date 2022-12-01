@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/rom013">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rom013&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=01ecf3&icon_color=01ecf3"/>
-  <img height="180em" width="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom013&layout=compact&langs_count=7&theme=dracula&title_color=01ecf3&bg_color=00000000"/>
+  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom013&layout=compact&langs_count=7&theme=dracula&title_color=01ecf3&bg_color=00000000"/>
 </div>
 
 ##
