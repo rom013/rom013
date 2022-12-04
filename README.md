@@ -1,4 +1,8 @@
-<h2>Olá 👋, eu sou Rômullo Melo</h2>
+<h2 align="center">
+  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00B2FF&center=true&width=475&lines=Hello+world+%F0%9F%91%8B!+My+name+is+R%C3%B4mullo+Melo;Front+end+Jr+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</h2>
 <p>Sou desenvolvedor front-end há mais de 1 ano</p>
 
 - 📫 Contato: <b>romullomelo0130@gmail.com</b>
