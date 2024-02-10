@@ -33,6 +33,10 @@ um apaixonado por transformar ideias em experiências incríveis! 🚀
 <img height="24" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" title="Expo"/> 
 <img height="24" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="NextJs" title="NextJS"/> 
 <img height="24" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" title="JWT"/> 
+<img height="24" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" title="Redis"/> 
+<img height="24" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" title="Fastify"/> 
+<img height="24" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/> 
+<img height="24" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI"/> 
 ...
 </div>
 
